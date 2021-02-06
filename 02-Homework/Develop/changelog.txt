@@ -1,0 +1,6 @@
+1. Changed div.header to header.header
+2. Changed heart symbol to &hearts;
+3. Changed header.header to nav.header ->clarify which is better at a later date
+4. Changed div.content to main.content ->clarify usage here - would a general <section> tag work better?
+5. Changed div.footer to footer.footer -> maybe header should remain header if we have a footer tag?
+6. Changed div.benefits to section.benefits
