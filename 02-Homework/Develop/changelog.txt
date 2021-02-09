@@ -4,3 +4,7 @@
 4. Changed div.content to main.content ->clarify usage here - would a general <section> tag work better?
 5. Changed div.footer to footer.footer -> maybe header should remain header if we have a footer tag?
 6. Changed div.benefits to section.benefits
+7. changed title of webpage to "Horiseon Social Solution Services"
+8. Consolidated all of the .benefit-xxxx h3 - those h3's are the only h3's on the page, so it's unnecesary to ha 3 different style rules
+9. Consolidate .benefit-xxx rules into one rule under .benefits div
+10. Change .benefits div selector to list out .benefit-xxxx
