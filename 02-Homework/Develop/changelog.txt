@@ -28,3 +28,7 @@
 24. Minor changes to formatting of <img> tags
 25. Remove "/" from meta tag - extraneous
 26. Replaced div.benefit-xxxx with section.benefit-xxx
+27. cut down .header h1 .seo style to just .seo as .seo is specific enough and the others are extraneous
+28. Changed nav.header to header.header
+29. Changed header.header>div>ul... to header.header>nav>ul...
+30. Changed div#search-engine-optimization, #online-reputation-management, #social-media-marketing to section element
