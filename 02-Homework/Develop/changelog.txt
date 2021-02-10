@@ -17,3 +17,14 @@
 17. Merged #search-engine-optimization img,
 #online-reputation-management img,
 #social-media-marketing img styles in style.css
+18. Changed h3 rule back to .benefit-xxxx h3 and merged separate rules for easier maintainability.
+19. Merged .benefit-xxxx img rules into one rule.
+20. Merged #search-engine-optimization h2,
+#online-reputation-management h2,
+#social-media-marketing h2 rule into one rule in style.css.
+21. Changed the section.benefits to aside.benefits
+22. Changed section.content to main.content
+23. Moved <link:css> 1 line down, below <title> element
+24. Minor changes to formatting of <img> tags
+25. Remove "/" from meta tag - extraneous
+26. Replaced div.benefit-xxxx with section.benefit-xxx
