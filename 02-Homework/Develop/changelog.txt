@@ -8,3 +8,7 @@
 8. Consolidated all of the .benefit-xxxx h3 - those h3's are the only h3's on the page, so it's unnecesary to ha 3 different style rules
 9. Consolidate .benefit-xxx rules into one rule under .benefits div
 10. Change .benefits div selector to list out .benefit-xxxx
+11. Added alt attributes to all the images
+12. Got rid of an extraneous </img> tag.
+13. Changes div.search-engine-optimization to div#search-engine-optimization to work with link
+14. Next Step: get rid of classes and adjust style.css accordingly?
