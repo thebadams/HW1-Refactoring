@@ -13,3 +13,7 @@
 13. Changes div.search-engine-optimization to div#search-engine-optimization to work with link
 14. Got rid of .online-reputation-management & .social-media-marketing as there are id's that match those names; use # instead to style.
 15. Changed class selectors as above to id selectors
+16. Merged #social-media-marketing, #online-reputation-management, #search-engine-optimization style rules in style.css
+17. Merged #search-engine-optimization img,
+#online-reputation-management img,
+#social-media-marketing img styles in style.css
