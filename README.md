@@ -9,5 +9,8 @@
     * Replace non-semantic html tags with html ones
     * Adjust existing html to reflect current accessability standards
     * Adjust css to increase ease of maintainenance.
+    * Remove extraneous classes and change the necessary css to reflect these changes
     * Make sure that the webpage still functions in the way that it should when done.
+
+
 
