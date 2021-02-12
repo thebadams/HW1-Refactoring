@@ -1,7 +1,7 @@
-# Horiseon Social Solution Services, Inc
+# Horiseon Social Solution Services, Inc Refactoring
 
 ## Description
-    *Horiseon Social Solution Services, Inc* has asked me to take the html and css markup of their webpage, and increase accessability and maintainability of their webpage. Of particular importance to *Horiseon Social Solution Services, Inc* is Search Engine Optimization
+   As part of a Homework Assignment for for the Rutgers Coding Bootcamp cohort, I was given an html file and corresponding css file and asked to bring the code up to accessabiltiy standards, and adjust the stylesheet accordingly.
 
 
 ## Criteria
