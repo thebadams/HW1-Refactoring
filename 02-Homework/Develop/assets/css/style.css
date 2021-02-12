@@ -90,9 +90,9 @@ p {
 
 /* Merged .benefit-xxxx rules into one as they are all the same style*/
 
-.benefit-lead,
- .benefit-brand,
-  .benefit-cost {
+.benefit-lead, 
+.benefit-brand, 
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
