@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-/* Changed .header class selector to header element selector */
+/* Changed .header class selector to header element selector to reflect change in index.html syntax */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/* Changed .header h1 selector to header h1 selector to reflect change in html syntax */
+/* Changed .header h1 selector to header h1 selector to reflect change in index.html syntax */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -149,14 +149,14 @@ Merged #search-engine-optimization h2, #online-reputation-management h2, #social
     font-size: 36px;
 }
 
-
-.footer {
+/* Changed .footer class selector to footer selector to reflect change in index.html syntax  */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* Changed .footer h2 class selector to footer h2 selector to reflect change in index.html syntax*/
+footer h2 {
     font-size: 20px;
 }
