@@ -13,4 +13,11 @@
     * Make sure that the webpage still functions in the way that it should when done.
 
 
+## Resources
+   *Listed Below Are the Resources I Found Useful*
+   
+   * [W3 Schools - Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+   * [W3 Schools - Unicode UTF-8 Reference](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
+   * [Maintainable CSS](https://maintainablecss.com/chapters/introduction/)
+
 
