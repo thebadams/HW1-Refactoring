@@ -25,9 +25,9 @@
    
 ## Contact Information
    ### Name
-         Brian P. Adams
+Brian P. Adams
    ### GitHub
-         [thebadams](https://github.com/thebadams)
+[thebadams](https://www.github.com/thebadams)
    ### Email
-         bpeteradams@gmail.com
+bpeteradams@gmail.com
       
